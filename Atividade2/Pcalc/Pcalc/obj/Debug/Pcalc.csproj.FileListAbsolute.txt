@@ -1,0 +1,10 @@
+C:\Users\feehm\source\repos\Pcalc\Pcalc\bin\Debug\Pcalc.exe.config
+C:\Users\feehm\source\repos\Pcalc\Pcalc\bin\Debug\Pcalc.exe
+C:\Users\feehm\source\repos\Pcalc\Pcalc\bin\Debug\Pcalc.pdb
+C:\Users\feehm\source\repos\Pcalc\Pcalc\obj\Debug\Pcalc.csproj.AssemblyReference.cache
+C:\Users\feehm\source\repos\Pcalc\Pcalc\obj\Debug\Pcalc.Form1.resources
+C:\Users\feehm\source\repos\Pcalc\Pcalc\obj\Debug\Pcalc.Properties.Resources.resources
+C:\Users\feehm\source\repos\Pcalc\Pcalc\obj\Debug\Pcalc.csproj.GenerateResource.cache
+C:\Users\feehm\source\repos\Pcalc\Pcalc\obj\Debug\Pcalc.csproj.CoreCompileInputs.cache
+C:\Users\feehm\source\repos\Pcalc\Pcalc\obj\Debug\Pcalc.exe
+C:\Users\feehm\source\repos\Pcalc\Pcalc\obj\Debug\Pcalc.pdb
